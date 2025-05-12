@@ -16,9 +16,9 @@ It provides real-time MAC spoofing, DHCP-based detection logging, and stealthy o
 git clone https://github.com/webdragon63/Spoofhound.git
 cd Spoofhound
 ```
-Just run spoofhound.sh -->>`bash spoofhound.sh` tool to spoof your MAC Address and live monitor it.
+Just run spoofhound.sh -->>`bash spoofhound.sh` tool to spoof your MAC Address and also live monitor it.
 
-Demo output
+***Demo output of live monitoring***
 ``` bash
 🔧 Enter your network interface (e.g., eth0, wlan0) >> wlp1s0
 ⛔ Disabling interface wlp1s0...
